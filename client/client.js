@@ -3,7 +3,7 @@
 */
 Template.messages.helpers({
     messages: function() {
-        return Messages.find({}, { sort: { time: -1}});
+        return Messages.find({}, { sort: { time: -1}, limit: 10});
     }
 })
 
