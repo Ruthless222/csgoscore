@@ -1,2 +1,3 @@
-# csgoscore
-This is a Counter Strike Global Offensive Betting Site. You chose the skins you want to bet and try to win jackpots
+# csgo_chat
+
+demonstration chat client that uses steam login
